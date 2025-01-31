@@ -23,4 +23,4 @@ Antes de executar o projeto, certifique-se de ter instalado:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/newwhatsappbot.git
+   git clone https://github.com/danielcarro/newWhatsBot
