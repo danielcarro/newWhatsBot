@@ -1,0 +1,28 @@
+# Ignorar arquivos de dados (como o contatos.xlsx)
+*.xlsx
+*.csv
+*.json
+
+# Ignorar arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de ambiente virtual
+venv/
+env/
+.venv/
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite3
